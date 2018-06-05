@@ -1,0 +1,23 @@
+{
+  "name": "constructorwordguess",
+  "version": "1.0.0",
+  "description": "Constructors with Node.js",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zankokou/ConstructorWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zankokou/ConstructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/zankokou/ConstructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "prompt": "^1.0.0"
+  }
+}
